@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B054F7&multiline=true&width=435&lines=%F0%9F%94%ADI+am+a+novice+web+developer+with+a+;keen+interest+in+the+subject.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B054F7&multiline=true&width=435&lines=%F0%9F%94%ADI+am+a+novice+web+developer+with+a+;keen+interest+in+the+subject.)]
 
 
 # 💻 Tech Stack:
